@@ -20,6 +20,15 @@ The data used in this project comes from the DataCamp course on Healthcare Analy
 4. Handled Outliers: Removed unusually high or low values.  
 5. Added New Columns: Created age groups and a cost efficiency metric.  
 6. Converted Data Types: Set the correct data types for all fields.
+### Exploratory Data Analysis (EDA):
+1. Patient Demographics:  
+  - Analyzed the distribution of patients by age, gender, and location.  
+2. Hospital Performance:
+  - Evaluated the average length of stay and discharge status across departments.
+3. Cost Analysis:  
+  - Investigated the total charges and payments to identify patterns in hospital costs.  
+4. Outcomes:
+  - Examined readmission rates and their correlation with treatment costs and patient demographics.
 
 
 
