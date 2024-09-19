@@ -5,5 +5,6 @@ This project focuses on analyzing healthcare data to gain insights into patient 
 ### Data Source
 The data used in this project comes from the DataCamp course on Healthcare Analytics, specifically the Hospital Inpatient Discharges for Total Hip Replacement dataset. This dataset includes detailed records of hospital discharges related to total hip replacement procedures.
 ### Tools and Technologies Used:
-- Power BI for data visualization and dashboard creation.
+- Power BI for data visualization and dashboard creation.[Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Excel for preliminary data cleaning and transformation.
+
