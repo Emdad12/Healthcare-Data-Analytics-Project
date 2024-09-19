@@ -1,6 +1,7 @@
 # Healthcare Data Analytics Project
 ### Table of Contents:
 - [Project Overview](#project-overview)
+- [View the Report](#view-the-report)
 - [Data Sources](#data-sources)
 - [Key Features](#key-features-of-the-dataset)
 - [Tools and Technologies](#tools-and-technologies-used)
@@ -12,6 +13,8 @@
 
 ### Project Overview :
 This project focuses on analyzing healthcare data to gain insights into patient demographics, healthcare costs, and service outcomes. Using Power BI, I designed an interactive and visually appealing dashboard that helps healthcare professionals make data-driven decisions.
+### View the Report:
+You can view the live Power BI report here: [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTAyZDgxOTUtZWJlYy00NzM0LWJkNGYtMzUxODdiNWUwZDRmIiwidCI6ImRmOTI5NDEzLWVjNjQtNDQyMS1hYjIzLTUyNWZmNGY2ZTRhYyIsImMiOjEwfQ%3D%3D)
 ### Data Sources
 The data used in this project comes from the DataCamp course on Healthcare Analytics, specifically the Hospital Inpatient Discharges for Total Hip Replacement dataset. This dataset includes detailed records of hospital discharges related to total hip replacement procedures.
 #### Key Features of the Dataset:
