@@ -45,8 +45,14 @@ Patients aged 70+ had longer hospital stays, averaging 1.5 days more than younge
  - Review and optimize hospital processes to reduce the higher costs in private hospitals without compromising patient care.
 4. Monitor High-Risk Groups:  
  - Focus on high-risk groups, such as older patients and those with shorter stays, to improve outcomes and reduce readmissions.
-
-
+### References :
+1. DataCamp Course on Healthcare Analytics:
+- Hospital Inpatient Discharges for Total Hip Replacement Dataset
+- This dataset was used for the analysis in this project, providing insights into hospital performance and patient outcomes.
+2. Power BI Documentation:
+- Official documentation and resources for using Power BI for data visualization and reporting.  
+3. Healthcare Cost Analysis:
+- Additional reading on factors influencing healthcare costs and their impact on hospital finances.
 
 
 
