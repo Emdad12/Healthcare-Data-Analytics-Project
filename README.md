@@ -1,2 +1,2 @@
-# Healthcare_datta-analytics_project
+# Healthcare Data Analytics Project
 This is health care data analytics project
