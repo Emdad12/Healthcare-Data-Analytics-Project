@@ -29,6 +29,14 @@ The data used in this project comes from the DataCamp course on Healthcare Analy
   - Investigated the total charges and payments to identify patterns in hospital costs.  
 4. Outcomes:
   - Examined readmission rates and their correlation with treatment costs and patient demographics.
+### Results/Findings:
+1. Age and Gender Trends:  
+Most total hip replacement patients were aged 60 and above, with a higher percentage of procedures performed on women.  
+2. Cost Variation:  
+Significant variation in hospital charges was observed, with private hospitals charging 20% more on average than public hospitals.
+3. Length of Stay:  
+Patients aged 70+ had longer hospital stays, averaging 1.5 days more than younger patients.
+
 
 
 
