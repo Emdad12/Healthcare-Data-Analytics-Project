@@ -11,7 +11,8 @@
 - [Recommendation](#recommendation)
 - [References](#references)
 
-### Project Overview :
+### Project Overview :  
+---
 This project focuses on analyzing healthcare data to gain insights into patient demographics, healthcare costs, and service outcomes. Using Power BI, I designed an interactive and visually appealing dashboard that helps healthcare professionals make data-driven decisions.
 ### View the Report:
 You can view the live Power BI report here: [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTAyZDgxOTUtZWJlYy00NzM0LWJkNGYtMzUxODdiNWUwZDRmIiwidCI6ImRmOTI5NDEzLWVjNjQtNDQyMS1hYjIzLTUyNWZmNGY2ZTRhYyIsImMiOjEwfQ%3D%3D)
@@ -26,7 +27,7 @@ The data used in this project comes from the DataCamp course on Healthcare Analy
 - Power BI for data visualization and dashboard creation.
   - [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Excel for preliminary data cleaning and transformation.
-### Data Cleaning and Preparation:
+### Data Cleaning and Preparation :
 1. Fixed Missing Values: Filled in missing values for age, length of stay, and charges.  
 2. Removed Duplicates: Deleted any duplicate records.  
 3. Standardized Data: Made sure dates and categories were consistent.  
@@ -49,7 +50,7 @@ Most total hip replacement patients were aged 60 and above, with a higher percen
 Significant variation in hospital charges was observed, with private hospitals charging 20% more on average than public hospitals.
 3. Length of Stay:  
 Patients aged 70+ had longer hospital stays, averaging 1.5 days more than younger patients.
-### Recommendation :
+### Recommendation  
 1. Improve Post-Discharge Care:  
  - Implement more robust follow-up programs for patients discharged early to reduce readmission rates.  
 2. Targeted Support for Elderly Patients:
@@ -66,6 +67,7 @@ Patients aged 70+ had longer hospital stays, averaging 1.5 days more than younge
 - Official documentation and resources for using Power BI for data visualization and reporting.  
 3. Healthcare Cost Analysis:
 - Additional reading on factors influencing healthcare costs and their impact on hospital finances.
+# Thanks 🥰
 
 
 
