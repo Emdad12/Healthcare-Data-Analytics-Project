@@ -7,4 +7,11 @@ The data used in this project comes from the DataCamp course on Healthcare Analy
 ### Tools and Technologies Used:
 - Power BI for data visualization and dashboard creation.[Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Excel for preliminary data cleaning and transformation.
+### Data Cleaning and Preparation:
+1. Fixed Missing Values: Filled in missing values for age, length of stay, and charges.  
+2. Removed Duplicates: Deleted any duplicate records.  
+3. Standardized Data: Made sure dates and categories were consistent.  
+4. Handled Outliers: Removed unusually high or low values.  
+5. Added New Columns: Created age groups and a cost efficiency metric.  
+6. Converted Data Types: Set the correct data types for all fields.  
 
