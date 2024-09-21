@@ -2,6 +2,7 @@
 ### Table of Contents:
 - [Project Overview](#project-overview)
 - [View the Report](#view-the-report)
+- [Visual Overview](#visual-overview)
 - [Data Sources](#data-sources)
 - [Key Features](#key-features-of-the-dataset)
 - [Tools and Technologies](#tools-and-technologies-used)
@@ -16,6 +17,12 @@
 This project focuses on analyzing healthcare data to gain insights into patient demographics, healthcare costs, and service outcomes. Using Power BI, I designed an interactive and visually appealing dashboard that helps healthcare professionals make data-driven decisions.
 ### View the Report:
 You can view the live Power BI report here: [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTAyZDgxOTUtZWJlYy00NzM0LWJkNGYtMzUxODdiNWUwZDRmIiwidCI6ImRmOTI5NDEzLWVjNjQtNDQyMS1hYjIzLTUyNWZmNGY2ZTRhYyIsImMiOjEwfQ%3D%3D)
+### Visual Overview  
+Here are some screenshots from the Power BI dashboard:  
+![Average_cost](https://github.com/user-attachments/assets/684629e5-c0b9-42da-81f9-8b87d9e24d89)  
+![Average-Length_of_Stay](https://github.com/user-attachments/assets/5d5f71c1-f518-4cdf-8983-a73f62d70e16)  
+![Influencer_of_Average_Cost_per_Discharge](https://github.com/user-attachments/assets/e57a1a0b-b977-4c6c-bd34-816089259547)
+
 ### Data Sources
 The data used in this project comes from the DataCamp course on Healthcare Analytics, specifically the Hospital Inpatient Discharges for Total Hip Replacement dataset. This dataset includes detailed records of hospital discharges related to total hip replacement procedures.
 #### Key Features of the Dataset:
